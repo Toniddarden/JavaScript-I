@@ -80,9 +80,6 @@ intern[1].speak = internGreeting;
 console.log(intern[1].speak());
 
 
-//another way I found --> // console.log(`Hello my name is ${intern[1].name}!`);
-
-
 // Antonietta loves math, give her the ability to multiply two numbers together and return the product. Use the console.log provided as a hint.
 const letMultiply = function(num1, num2) {
 return num1 * num2;
